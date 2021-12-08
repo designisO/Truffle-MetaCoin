@@ -17,6 +17,7 @@ In this project I wanted to review how a smart contract is compiled and deployed
 ## Help
 
 Learn more about the Truffle Suite: http://trufflesuite.com/docs/index.html
+Github: https://github.com/trufflesuite/truffle
 
 ## Authors
 
@@ -33,5 +34,5 @@ No License
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Truffle Suite ](https:/trufflesuite.com)
+* [Truffle Suite ](https://github.com/trufflesuite/truffle)
 
